@@ -1,5 +1,5 @@
 ---
-title: GLabels
+title: gLabels Label Designer
 layout: default
 ---
 
@@ -23,8 +23,8 @@ data source, such as a CSV file.
 
 #### Getting The Code
 
-- [gLabels 4.0 GitHub Repository](https://github.com/jimevins/glabels-qt)
-- [gLabels 3.x GitHub Repository](https://github.com/jimevins/glabels) (Legacy version) 
+- [gLabels 4.0 GitHub Repository](https://github.com/j-evins/glabels-qt)
+- [gLabels 3.x GitHub Repository](https://github.com/j-evins/glabels-gtk) (Legacy version) 
 
 
 #### License
