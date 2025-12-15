@@ -1,7 +1,9 @@
-plugins:
-  - jekyll-relative-links
-relative_links:
-  enabled: true
-  collections: true
-include:
-  - README.md
+title: GLabels
+theme: minima
+markdown: kramdown
+
+# If this is a project site (not a username.github.io repo), set baseurl:
+baseurl: "/glabels.org"   # <- remove or set to "" for a user or custom-domain site
+
+# The url for your site (use the github pages URL or your custom domain)
+url: "https://j-evins.github.io"  # set to "https://glabels.org" if using a custom domain
