@@ -1,9 +1,11 @@
-title: GLabels
-theme: minima
-markdown: kramdown
+title: gLabels.org
+description: Design and print labels and business cards
+theme: just-the-docs
 
-# If this is a project site (not a username.github.io repo), set baseurl:
-baseurl: "/glabels.org"   # <- remove or set to "" for a user or custom-domain site
+url: https://j-evins.github.io/tmp-glabels.org
 
-# The url for your site (use the github pages URL or your custom domain)
-url: "https://j-evins.github.io"  # set to "https://glabels.org" if using a custom domain
+# Keep site simple for now
+nav_enabled: true
+search_enabled: true
+
+footer_content: "&copy; 2025 Jaye Evins"
